@@ -1,0 +1,23 @@
+*{
+    margin: 1rem solid black;
+    padding: 1rem;
+
+}
+button{
+    margin: 0rem;
+    padding: 1rem;
+background-color: aqua;
+color: black;
+}
+.answer{
+    padding: 1rem 2.5rem 1rem 2.5rem;
+    margin: .5rem solid black;
+    align-items: center;
+    background-color: azure;
+}
+section{
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
